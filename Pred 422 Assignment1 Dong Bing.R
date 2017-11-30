@@ -1,3 +1,6 @@
+#Homework Assignment 1, see LSTR book for reference. 
+
+
 library(corrgram)
 library(corrplot)
 library(ISLR)
