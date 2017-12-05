@@ -1,5 +1,5 @@
 # Chaper 5 Lab: Cross-Validation and the Bootstrap
-
+# Sample Cose
 # The Validation Set Approach
 
 library(ISLR)
