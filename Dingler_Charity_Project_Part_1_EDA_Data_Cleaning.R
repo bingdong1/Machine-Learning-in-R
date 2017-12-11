@@ -1,5 +1,4 @@
-########################################
-## Andy Dingler
+
 ## PREDICT 422
 ## Charity Project - Part 1 (Exploratory Data Analysis)
 ########################################
